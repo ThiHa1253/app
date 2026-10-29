@@ -1,0 +1,51 @@
+Headphones Assistant Privacy Policy
+
+Last updated: October 26, 2026  
+Product: Headphone Assistant (headphone listening-check tool)
+
+We respect your privacy. This policy explains how Headphone Assistant handles information. If you do not agree, please stop using the app.
+
+1. Who we are  
+Headphone Assistant is a local-first iPhone tool for subjective headphone listening checks. Core features run on your device. No account is required, and we do not operate a developer backend to store your test content.
+
+2. What information we process  
+1) We do not collect personal identity data such as name, email, phone number, contacts, precise location, photo library, Health data, or advertising identifiers for profiling.  
+2) Content you create and save on device may include: headphone profiles (name, brand, model, notes), test plans, listening feedback, reports, and settings (language, default plan, break-reminder switch/interval).  
+3) The app reads the system audio output route (port type and display name) only to show status and guide testing. This does not create a cloud profile.  
+4) This version does not provide developer-operated cloud sync, sign-in, or remote analytics. Headphone profiles and test results are not uploaded to developer servers by default.
+
+3. Permissions  
+1) Notifications (optional): requested only if you enable Break reminders. Used for on-device local notifications. You can disable them in iOS Settings anytime.  
+2) Microphone: not requested and not used in this version; no recording.  
+3) Camera, Photos, Contacts, Location, Bluetooth device scanning/control, and App Tracking Transparency: not required for core features in this version.  
+4) If a future version needs additional permissions, we will explain the purpose in the system prompt and in-product copy, and use them only after you grant access.
+
+4. How information is used  
+On-device data is used only to provide listening tests and troubleshooting guidance, show history, export files you choose to share, and run local reminders you enable. We do not use this content for advertising profiles.
+
+5. Third parties and system services  
+1) Playback, sharing, and local notifications rely on Apple frameworks (such as AVFoundation, UserNotifications, and the system share sheet).  
+2) This version does not integrate third-party ad, analytics, or crash SDKs.  
+3) If you share an export to another app or cloud service, that destination’s privacy policy applies. Headphone Assistant does not upload automatically unless you choose a share target.  
+4) If in-app purchases/subscriptions are enabled later, billing is handled by Apple under Apple’s terms and privacy policy.
+
+6. Storage, export, and deletion  
+1) Data is stored on device by default (for example Core Data / UserDefaults).  
+2) In Settings → Data management you can export local data (for example JSON) or delete local profiles and history.  
+3) Deleting the app usually removes app data per iOS behavior and your backup settings.  
+4) Clearing in-app business data does not change Apple purchase/subscription records (if any).
+
+7. Security  
+We reduce risk by keeping data local by default, avoiding mandatory accounts, and not uploading test content to developer servers. Devices can still be lost or accessed by others — protect your device passcode and backups.
+
+8. Children’s privacy  
+The app is not directed at children under 13 for services that collect personal information. Guardians should supervise minors, especially headphone volume.
+
+9. Your choices  
+You can access, export, or delete on-device business data in Data management, and manage notification permission in iOS Settings.
+
+10. Changes  
+We may update this policy when features change and will refresh the in-app text. Material changes may also appear in App Store release notes. Continued use means you acknowledge the updated policy.
+
+11. Contact  
+For privacy questions or help with on-device data, contact us via App Support on the App Store product page or another support channel published by the developer. The public privacy policy URL (if applicable) will be listed in App Store Connect and on the product page.
